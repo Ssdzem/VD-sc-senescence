@@ -1,0 +1,6 @@
+ID,Download link
+prostate,https://bis.zju.edu.cn/MCA/data/dge/Adult-Prostate.zip
+skin_barcodes,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129218/suppl/GSE129218%5Fbarcodes%5F9w.tsv.gz
+skin_features,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129218/suppl/GSE129218%5Fgenes%5F9w.tsv.gz
+skin_matrix,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE129nnn/GSE129218/suppl/GSE129218%5Fmatrix%5F9w.mtx.gz
+bone,1Vw_QNEwd_aoYIcAO3oxrUfu1Nq5_DlUi
